@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MulLanguage</string>
+    <string name="setting">setting</string>
+    <string name="i_am_test_text">I am test text</string>
+</resources>

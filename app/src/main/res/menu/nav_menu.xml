@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/menu_english"
+            android:title="English" />
+        <item
+            android:id="@+id/menu_hi"
+            android:title="हिन्दी" />
+        <item
+            android:id="@+id/menu_in"
+            android:title="Bahasa indonesia" />
+        <item
+            android:id="@+id/menu_es"
+            android:title="Español" />
+        <item
+            android:id="@+id/menu_pt"
+            android:title="Português" />
+        <item
+            android:id="@+id/menu_ru"
+            android:title="русский" />
+        <item
+            android:id="@+id/menu_de"
+            android:title="Deutsch" />
+        <item
+            android:id="@+id/menu_fr"
+            android:title="Français" />
+        <item
+            android:id="@+id/menu_zh_rCN"
+            android:title="中文(简体)" />
+        <item
+            android:id="@+id/menu_zh_rTW"
+            android:title="中文(繁體)" />
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/group2">
+    </group>
+
+</menu>
